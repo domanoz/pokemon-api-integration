@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+dist/
+bin/
+extensions.csproj
+obj/
+.vscode
+.eslintcache
+coverage/
